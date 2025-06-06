@@ -1,0 +1,17 @@
+# 忽略 Python 缓存文件
+__pycache__/
+*.pyc
+*.pyo
+
+# 忽略日志文件
+*.log
+
+# 忽略环境变量配置文件
+.env
+
+# 忽略虚拟环境文件夹
+myenv/
+
+# 忽略截图或临时文件夹
+screenshots/
+
