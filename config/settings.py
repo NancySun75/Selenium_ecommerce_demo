@@ -1,0 +1,13 @@
+
+BASE_URL = "https://www.saucedemo.com/"
+USERNAME = "standard_user"
+PASSWORD = "secret_sauce"
+ITEM_NAME_BACKPACK = "sauce-labs-backpack"
+ITEM_NAME_BIKELIGHT = "sauce-labs-bike-light"
+ITEM_NAME_BOLTT_SHIRT = "sauce-labs-bolt-t-shirt"
+ITEM_NAME_FLEECE_JACKET = "sauce-labs-fleece-jacket"
+ITEM_NAME_ONESIE = "sauce-labs-onesie"
+ITEM_NAME_REDT_SHIRT = "test.allthethings()-t-shirt-(red)"
+INFO_FIRSTNAME = "fn"
+INFO_LASTNAME = "ln"
+INFO_POSTCODE = "0123"
